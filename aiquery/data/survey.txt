@@ -1,0 +1,29 @@
+**Team Survey: BigQuery AI - Building the Future of Data**
+
+**Instructions:**
+
+*   This survey is for bonus points.
+*   Points are awarded for completeness, not for the content of your answers.
+*   We highly encourage everyone to submit one.
+*   There are 3 questions in total - please answer all 3.
+---
+
+**Team Member Experience:**
+
+1)  **BigQuery AI:** Please list each team member(s) months of experience with BigQuery AI.
+    *   Team Member 1: [Months of Experience]
+    *   Team Member 2: [Months of Experience]
+    *   ...
+
+2)  **Google Cloud:** Please list each team member(s) months of experience with Google Cloud.
+    *   Team Member 1: [Months of Experience]
+    *   Team Member 2: [Months of Experience]
+    *   ...
+
+---
+
+3)  **Feedback:**
+
+We’d love to hear from you and your experience in working with the technology during this hackathon, positive or negative. Please provide any feedback on your experience with BigQuery AI.
+
+[Your feedback here]
